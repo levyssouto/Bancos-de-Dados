@@ -1,4 +1,4 @@
-/*Criando chaves primárias - não deixa criar produtos repetidos com mesmo código*/
+/*Criando chaves primárias - não deixa criar produtos repetidos com mesmo código s */
 ALTER TABLE tbprodutos ADD PRIMARY KEY (PRODUTO);
 
 select * from tbprodutos;
