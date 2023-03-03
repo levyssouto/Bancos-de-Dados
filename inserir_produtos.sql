@@ -1,4 +1,4 @@
-
+/*inserindo produtos na tabela*/
 
 INSERT INTO tbprodutos (
 PRODUTO,  NOME, EMBALAGEM, TAMANHO, SABOR,
