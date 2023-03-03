@@ -1,5 +1,6 @@
 use sucos;  
 
+/*Adicionando colunas com datas e bits*/
 ALTER TABLE cliente ADD PRIMARY KEY (CPF);
 ALTER TABLE cliente ADD COLUMN (DATA_NASCIMENTO DATE);
 
