@@ -11,5 +11,5 @@ WHERE MATRICULA = '00233';
 
 UPDATE tabela_de_vendedores SET PERCENTUAL_COMISSAO = 0.11
 WHERE MATRICULA = '00236';
-
+/*Matricula usada como chave, desabilitando safe updates*/
 select * from tabela_de_vendedores;

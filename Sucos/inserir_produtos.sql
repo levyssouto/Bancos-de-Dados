@@ -9,3 +9,4 @@ INSERT INTO tbprodutos (
 PRODUTO,  NOME, EMBALAGEM, TAMANHO, SABOR,
 PRECO) VALUES
 ('1078680', 'Frescor do Verão - 470 ml - Manga', 'Lata', '470 ml','Manga',5.18);
+/*comentario*/
