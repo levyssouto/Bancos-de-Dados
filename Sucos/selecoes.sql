@@ -1,4 +1,4 @@
-
+/* utilizando select para consultas*/
 SELECT * FROM tbcliente;
 
 SELECT CPF, NOME, ENDERECO1, ENDERECO2, BAIRRO, CIDADE, ESTADO, CEP,
